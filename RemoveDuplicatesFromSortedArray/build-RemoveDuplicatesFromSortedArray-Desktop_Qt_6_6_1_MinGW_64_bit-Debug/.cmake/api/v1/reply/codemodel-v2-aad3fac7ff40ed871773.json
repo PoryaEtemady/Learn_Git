@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4b7b8550e600141db8d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RemoveDuplicatesFromSortedArray",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RemoveDuplicatesFromSortedArray::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RemoveDuplicatesFromSortedArray-Debug-56b851bc40c9fb1164fc.json",
+					"name" : "RemoveDuplicatesFromSortedArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RemoveDuplicatesFromSortedArray_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RemoveDuplicatesFromSortedArray_autogen-Debug-a1fd94bfa4b2cac496a3.json",
+					"name" : "RemoveDuplicatesFromSortedArray_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RemoveDuplicatesFromSortedArray_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RemoveDuplicatesFromSortedArray_autogen_timestamp_deps-Debug-a32cec597dcb08443919.json",
+					"name" : "RemoveDuplicatesFromSortedArray_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/leetCode/RemoveDuplicatesFromSortedArray/build-RemoveDuplicatesFromSortedArray-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "D:/leetCode/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
