@@ -1,0 +1,9 @@
+D:/leetCode/PalindromeNumber/build-PalindromeNumber-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/PalindromeNumber.dir
+D:/leetCode/PalindromeNumber/build-PalindromeNumber-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/leetCode/PalindromeNumber/build-PalindromeNumber-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/leetCode/PalindromeNumber/build-PalindromeNumber-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/leetCode/PalindromeNumber/build-PalindromeNumber-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/leetCode/PalindromeNumber/build-PalindromeNumber-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/leetCode/PalindromeNumber/build-PalindromeNumber-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/leetCode/PalindromeNumber/build-PalindromeNumber-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/PalindromeNumber_autogen_timestamp_deps.dir
+D:/leetCode/PalindromeNumber/build-PalindromeNumber-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/PalindromeNumber_autogen.dir
