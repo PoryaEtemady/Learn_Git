@@ -7,7 +7,7 @@
 #define SOL2    1//enhanced solution
 #define SOL3    2//FASTEST WAY
 
-#define SOLUTION  SOL3
+#define SOLUTION  SOL1
 
 using namespace std;
 #if SOLUTION==SOL1
@@ -57,7 +57,6 @@ public:
                 reverse = reverse*10+input_num%10;
                 input_num = input_num/10;
             }
-
             if(reverse == x)
                 return true;
             else
